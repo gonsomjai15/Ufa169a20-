@@ -1,0 +1,18 @@
+{
+  "name": "Ufa169a20-",
+  "main": "./lib/scroll-through-time",
+  "version": "0.0.0",
+  "description": "แทงบอล ออนไลน์ สอบถามข้อมูลเพิ่มเติม และ รับโปรโมชั่นอีกมากมาย ได้ที่ Line : @ufax169",
+  "keywords": [
+    "แทงบอล",
+    "แทงบอลออนไลน์",
+    "แทงบอลมือถือ",
+    "UFABET"
+  ],
+  "repository": "https://github.com/gonsomjai15/Ufa169a20-",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
